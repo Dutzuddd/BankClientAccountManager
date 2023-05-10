@@ -1,0 +1,15 @@
+C:\Users\vlads\Desktop\workigOn\c#\vladBankTest1\vladBankTest1\bin\Debug\net6.0\vladBankTest1.exe
+C:\Users\vlads\Desktop\workigOn\c#\vladBankTest1\vladBankTest1\bin\Debug\net6.0\vladBankTest1.deps.json
+C:\Users\vlads\Desktop\workigOn\c#\vladBankTest1\vladBankTest1\bin\Debug\net6.0\vladBankTest1.runtimeconfig.json
+C:\Users\vlads\Desktop\workigOn\c#\vladBankTest1\vladBankTest1\bin\Debug\net6.0\vladBankTest1.dll
+C:\Users\vlads\Desktop\workigOn\c#\vladBankTest1\vladBankTest1\bin\Debug\net6.0\vladBankTest1.pdb
+C:\Users\vlads\Desktop\workigOn\c#\vladBankTest1\vladBankTest1\obj\Debug\net6.0\vladBankTest1.csproj.AssemblyReference.cache
+C:\Users\vlads\Desktop\workigOn\c#\vladBankTest1\vladBankTest1\obj\Debug\net6.0\vladBankTest1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlads\Desktop\workigOn\c#\vladBankTest1\vladBankTest1\obj\Debug\net6.0\vladBankTest1.AssemblyInfoInputs.cache
+C:\Users\vlads\Desktop\workigOn\c#\vladBankTest1\vladBankTest1\obj\Debug\net6.0\vladBankTest1.AssemblyInfo.cs
+C:\Users\vlads\Desktop\workigOn\c#\vladBankTest1\vladBankTest1\obj\Debug\net6.0\vladBankTest1.csproj.CoreCompileInputs.cache
+C:\Users\vlads\Desktop\workigOn\c#\vladBankTest1\vladBankTest1\obj\Debug\net6.0\vladBankTest1.dll
+C:\Users\vlads\Desktop\workigOn\c#\vladBankTest1\vladBankTest1\obj\Debug\net6.0\refint\vladBankTest1.dll
+C:\Users\vlads\Desktop\workigOn\c#\vladBankTest1\vladBankTest1\obj\Debug\net6.0\vladBankTest1.pdb
+C:\Users\vlads\Desktop\workigOn\c#\vladBankTest1\vladBankTest1\obj\Debug\net6.0\vladBankTest1.genruntimeconfig.cache
+C:\Users\vlads\Desktop\workigOn\c#\vladBankTest1\vladBankTest1\obj\Debug\net6.0\ref\vladBankTest1.dll
